@@ -1,0 +1,20 @@
+.nav
+{
+	width: 100%;
+	background-color:#a9a9a9;
+	padding: 0;
+	margin: 0;
+	height: 40px;
+	text-align: center;
+	position: fixed;
+
+
+}
+li
+{display: inline;
+padding: 8px;
+list-style-type: none;
+}
+a{text-decoration: none;}
+li a:hover{background-color: #ff1493;}
+li a:active{background-color: #a9a9a9;}
